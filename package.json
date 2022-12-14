@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^2.2.4",
+    "log-beautify": "^1.2.0"
+  }
+}
